@@ -1,0 +1,15 @@
+{
+    "version": "0.7.3",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/KusionStack/kusion/releases/v0.7.3/kusion_0.7.3_windows_amd64.zip",
+            "bin": [
+                "kusion.exe"
+            ],
+            "hash": "24841b5b376ea003c1744cda7eee4c72271612cc33084fda3702330615b58bc9"
+        }
+    },
+    "homepage": "http://github.com/KusionStack/kusion",
+    "license": "Apache License 2.0",
+    "description": "Codify and deliver intentions to Kubernetes and Clouds."
+}
