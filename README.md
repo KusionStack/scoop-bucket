@@ -8,7 +8,7 @@ Auto release Homebrew Taps by GoReleaser reference this [document](https://gorel
 
 ```
 scoop add bucket KusionStack https://github.com/KusionStack/scoop-bucket.git
-scoop install kusion
+scoop install KusionStack/kusion
 ```
 
 ## Formulae
