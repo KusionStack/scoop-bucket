@@ -9,6 +9,13 @@
             "hash": "f74a9f462eca5a4b19cde52dca75b4c2fea1d00774186ca105f55cbe0343cb91"
         }
     },
+    "depends": "kclvm",
+    "shortcuts": [
+        [
+            "kusion.exe",
+            "kusion"
+        ]
+    ],
     "homepage": "http://github.com/KusionStack/kusion",
     "license": "Apache License 2.0",
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
