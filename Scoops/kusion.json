@@ -1,21 +1,14 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1-rc.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KusionStack/kusion/releases/download/v0.8.0/kusion_0.8.0_windows_amd64.zip",
+            "url": "https://github.com/KusionStack/kusion/releases/download/v0.8.1-rc.0/kusion_0.8.1-rc.0_windows_amd64.zip",
             "bin": [
                 "kusion.exe"
             ],
-            "hash": "7be0c2949513d6de3b6c9aada17247201bf4818f9bdd724eee88c925cde86ba9"
+            "hash": "dbc0b52dfdd79250775bd38ab5585eee6027b49c04694454e480defa7712231e"
         }
     },
-    "depends": "kclvm",
-    "shortcuts": [
-        [
-            "kusion.exe",
-            "kusion"
-        ]
-    ],
     "homepage": "http://github.com/KusionStack/kusion",
     "license": "Apache License 2.0",
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
