@@ -1,12 +1,12 @@
 {
-    "version": "0.9.1",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KusionStack/kusion/releases/download/v0.9.1/kusion_0.9.1_windows_amd64.zip",
+            "url": "https://github.com/KusionStack/kusion/releases/download/v1.0.3/kusion_1.0.3_windows_amd64.zip",
             "bin": [
                 "kusion.exe"
             ],
-            "hash": "52ff029a791da1e5169db45a1882b19c0578d6e235ec18482ee9696decfa5f90"
+            "hash": "385984efaba73ff9a0e23116af1bcc89f67fa28fa2b15a097276d11c5eee2fd3"
         }
     },
     "homepage": "http://github.com/KusionStack/kusion",
