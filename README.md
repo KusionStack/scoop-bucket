@@ -2,13 +2,20 @@
 
 The [Scoop](https://scoop.sh/) buckets for the [KusionStack](https://kusionstack.io) projects.
 
-Auto release Homebrew Taps by GoReleaser reference this [document](https://goreleaser.com/customization/scoop/).
+Auto release Scoop Manifests by GoReleaser reference this [document](https://goreleaser.com/customization/scoop/).
 
 ## Installation
 
+Install or update Kusion:
 ```
-scoop add bucket KusionStack https://github.com/KusionStack/scoop-bucket.git
+scoop bucket add KusionStack https://github.com/KusionStack/scoop-bucket.git
 scoop install KusionStack/kusion
+```
+
+Uninstall Kusion:
+```
+scoop uninstall KusionStack/kusion
+scoop bucket rm KusionStack
 ```
 
 ## Formulae
@@ -16,7 +23,6 @@ scoop install KusionStack/kusion
 | Repository | Formula | Description |
 | ---------- | ------- | ----------- |
 | [kusion](https://github.com/KusionStack/kusion) | [formula](Scoops/kusion.json) | Platform Engineering Engine: Deliver intentions to Kubernetes and Clouds |
-| [KCLVM](https://github.com/KusionStack/KCLVM) | [formula](Scoops/kclvm.json) | KCL: Constraint-based Record & Functional Language |
 
 ## Documentation
 
