@@ -1,4 +1,6 @@
 # scoop-bucket
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fscoop-bucket.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fscoop-bucket?ref=badge_shield)
+
 
 The [Scoop](https://scoop.sh/) buckets for the [KusionStack](https://kusionstack.io) projects.
 
@@ -27,3 +29,7 @@ scoop bucket rm KusionStack
 ## Documentation
 
 `scoop help` or check [Scoop's wiki](https://github.com/ScoopInstaller/Scoop/wiki)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fscoop-bucket.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fscoop-bucket?ref=badge_large)
